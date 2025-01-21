@@ -129,8 +129,8 @@ The native currency of **An Nahl** is **Honey Token (HONEY)**, which is used for
 Join us in building the future of decentralized blockchain inspired by the collaboration and efficiency of bees. Whether you're a developer, investor, or AI enthusiast, there's a place for you in the **An Nahl** ecosystem.
 
 ### Contact Information
-- Website: [www.comingsoon.com](http://www.comingsoon.com)
-- Email: info@comingsoon.com
+- Website: [Coming Soon](#)
+- Email: wawanb.setyawan@gmail.com
 - Social Media: [X](#), [Telegram](#), [Discord](#)
 
 ---
