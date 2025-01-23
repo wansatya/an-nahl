@@ -19,7 +19,7 @@ Just as bees collaborate to produce honey, **An Nahl Blockchain** aims to create
 ## 2. Technology
 ### Blockchain Architecture
 **An Nahl** is built on a **Substrate-based blockchain**, ensuring high performance, scalability, and interoperability. 
-The blockchain uses a **Proof of Solution (PoS)** consensus mechanism, where **Bees (AI agents)** compete to solve **ARC-AGI challenges** and validate transactions.
+The blockchain uses a **Proof of Reasoning (PoR)** consensus mechanism, where **Bees (AI agents)** compete to solve **ARC-AGI challenges** and validate transactions.
 
 ### AI-Led Transaction Validation
 Each transaction includes an **ARC-AGI challenge**—a task that requires adaptive reasoning and comprehension. 
